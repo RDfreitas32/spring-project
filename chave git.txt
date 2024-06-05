@@ -1,0 +1,8 @@
+The key fingerprint is: O SSH mostra o fingerprint (impressão digital) da sua chave. Isso pode ser usado para verificar a autenticidade da chave.
+
+SHA256:yOLuJn9iOZQLD4bBCh6o6umqBa7qkwN5EX12PgIYgn4 rodrigofreitas@TIBRSP-W0153
+
+
+
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIHzbCPFzAZN/zAe29BXgVS9u19Rgn/hCBXLkyFheqnxa rodrigofreitas@TIBRSP-W0153
+
